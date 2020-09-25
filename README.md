@@ -1,2 +1,2 @@
 # Mini-Project-technocolab
-This is the mini project for the technocolab internship
+This gui application gives us the weather forecast for any place and for next five consecutive days.
